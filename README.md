@@ -144,7 +144,7 @@ python src/power_plants/renewable_map.py
 
 ## Author
 
-Antonio Pavolini
+Antonio Pavoni
 
 ## License
 
